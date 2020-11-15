@@ -1,3 +1,3 @@
-# MentorPatchTool
+#  MentorPatchTool
 
-MentorGraphics Products License Feature Generate!
+MentorGraphics Products License Generate Tool!
